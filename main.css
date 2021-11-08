@@ -1,4 +1,38 @@
-div {
+<div id= #red> 
+#red {
+  border-top-color: #f00;
+}
+</div>
+<div id= #orange>
+#orange {
+  border-top-color: ffa500;
+}
+</div>
+<div id= #yellow>
+#yellow {
+  border-top-color: ff0;
+}
+</div>
+<div id= #green>
+#green {
+  border-top-color: 00bc3f;
+}
+</div>
+<div id= #blue>
+#blue {
+  border-top-color: 06f;
+}
+</div>
+<div id= #indigo>
+#indigo: {
+  border-top-color: 8a2be2;
+}
+</div>
+<div id= #violet>
+#violet {
+  border-top-color: d300c9;
+}
+</div>
   border: 20px solid #000; /* this is short hand for setting
                             the border's width, its type, and color */
   display: inline-block; /* a way of positioning elements */
